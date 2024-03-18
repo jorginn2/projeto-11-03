@@ -5,4 +5,5 @@
 ## Especificações
 
 * [Java](https://www.java.com/) - Linguagem
+<hr>
 * [Eclipse](https://eclipseide.org) - IDE
